@@ -15,4 +15,4 @@ This library is designed to be:
 ## 📦 Installation
 
 ```bash
-npm install @cazes/formattersformatters (phone, postal code, NAS, etc.)
+npm install @cazes/formatters
